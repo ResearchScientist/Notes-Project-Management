@@ -29,6 +29,7 @@ monitor progress
 motivate team
 remove obstacles
 communicate
+
 # Close
 
 celebrate hard work
