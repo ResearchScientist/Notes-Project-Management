@@ -10,5 +10,4 @@
 - organization (tracking)
 - understanding personal motivations
 - understanding personal needs (unique awards and recognition)
-- 
 
