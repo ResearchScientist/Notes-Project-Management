@@ -14,7 +14,11 @@
 |Project|Item with a beginning and end date that contains tasks.|
 |Project Charter|Document that outlines the project goals, scope, and requirements.|
 |Project Manager|Guides team and provides the support they need.|
+|RACI Matrix|Defines team member roles and responsabilities.|
 |Stakeholders|People interested in and affected by the project's success or failure.|
+|Stakeholder Buy-In|Involving stakeholders in decision making to gain their trust and participation.|
+|Stakeholder Interest Matrix|2x2 grid for categorizing stakeholders based on their power and interest in the project.|
+|Steering Committee|Stakeholders with high power and high interest in the project.|
 |Triple Constraint Model|Considers scope, cost, time in evaluating the feasibility of adjusting a project.|
 |Waterfall|Linear methodology. Used when scope is known and will not change.|
 
