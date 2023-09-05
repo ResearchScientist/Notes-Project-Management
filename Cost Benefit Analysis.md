@@ -7,5 +7,5 @@ Questions
 - how much money will be saved
 - how much time will be required
 
-Include the answer to these and similar types of questions in the [[Project Charter]].
+Include the answer to these and similar types of questions in the [Project Charter](Project%20Charter.md).
 
