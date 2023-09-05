@@ -6,6 +6,7 @@
 |Cost Benefit Analysis|Compares the expected value of a project to the cost.|
 |Culture|Employee values and organization's mission and how they align.|
 |Iterative|Tasks can occur asyncrously or simultaneously.|
+|Kick Off Meeting|First project meeting where the team is oriented to the project goals and individual member roles.|
 |Landing|Measurement of success of a completed project.|
 |Launch|Project delivery at complesion.|
 |Lean Six Sigma|Define problem, measure, analyse, improve, control.|

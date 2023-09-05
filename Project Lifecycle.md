@@ -1,17 +1,14 @@
 # Initiate
 
 define project goals
-budget
-resources
-people
+define scope
+detail deliverables
+agree on success criteria
+set budget
+identify resources
+choose people
+identify all stakeholders
 get approval
-
-- goals
-- scope
-- deliverables
-- success criteria
-- stakeholders
-- resources
 
 # Plan
 
@@ -22,6 +19,10 @@ schedule
 resources
 establish team
 determine roles and responsibilities
+
+- coordinate efforts and timelines with other teams
+- identify and prepare for risks
+- get buy in from key project team members
 
 # Execute
 
