@@ -11,6 +11,7 @@
 |Launch|Project delivery at complesion.|
 |Lean Six Sigma|Define problem, measure, analyse, improve, control.|
 |Linear|Tasks occur one after the other in a specific order.|
+|Milestone|Progress marker, usually indicates completion of a project phase or deliverable.|
 |OKRs|Objectives and Key Results. Combine objectives and metrics.|
 |Project|Item with a beginning and end date that contains tasks.|
 |Project Charter|Document that outlines the project goals, scope, and requirements.|
@@ -20,7 +21,9 @@
 |Stakeholder Buy-In|Involving stakeholders in decision making to gain their trust and participation.|
 |Stakeholder Interest Matrix|2x2 grid for categorizing stakeholders based on their power and interest in the project.|
 |Steering Committee|Stakeholders with high power and high interest in the project.|
+|Task|Activity to be completed within a time frame.|
 |Triple Constraint Model|Considers scope, cost, time in evaluating the feasibility of adjusting a project.|
 |Waterfall|Linear methodology. Used when scope is known and will not change.|
+|Work Breakdown Structure|Sorting of milestones and tasks in order of required completion.|
 
 
