@@ -1,34 +1,5 @@
 
-Planning the project together in the early stages helps the team members get buy in into the project.
-
-- set the schedule
-- make a budget
-- make a risk management plan
-
-First step is the [Kick Off Meeting](Kick%20Off%20Meeting.md).
-Next is milestones and tasks.
-Then setting the schedule.
-
-# Milestones
-
-A project consists of various milestones. These milestones indicate the progress towards completion of the project.
-
-Breaking down the project into milestones allows for visualizing its individual components. This helps prioritize and design the workflow and timeline.
-
-Assign a realistic deadline to each milestone based on the complexity of tasks and allotted resources. Align with stakeholders expectations and communicate any scope modifications that need to be made to meet those expectations.
-# Tasks
-
-Each milestone consists of various tasks. These tasks must be completed in order to reach the milestone.
-
-Determine the order of tasks with a [Work Breakdown Structure](Work%20Breakdown%20Structure.md).
-
-## Task Assignment
-
-Assign tasks based on team member roles. Consider their expertise and current workload.
-
-# Schedule
-
-An outline of the time allotted for all tasks and the roles responsible for them.
+A schedule is an outline of the time allotted for all tasks and the roles responsible for them.
 
 Include
 
@@ -41,10 +12,29 @@ Include
 - granulize as necessary into months, weeks, days, hours
 
 A gantt chart is a good choice.
+Phases : Research , Design , Development
 
-![gantt-pm](gantt-pm.png)
+![gantt-pm](gantt.png)
 
-To get appropriate time estimates for the tasks, ask the role assignee how long it will take.
+As a spreadsheet.
+Phases : Initiation , Planning , Execution , Quality
+
+![PM-gantt - Sheet1](gantt.pdf)
+
+# Time Estimates
+
+To get appropriate time estimates for the tasks, ask the role assignee directly.
+
+Use open ended questions
+- how long does a task like this typically take
+- how complex is this task
+- what risks are associated with this task
+- when do you think you can have this ready
+
+Provide help
+- what do you need to complete this sooner
+
+# Buffers
 
 You can add buffers to tasks, but best to use them for external stakeholders such as vendors. That way if they are late on delivering you can still be on schedule because you added a buffer to account for such a delay.
 
@@ -73,6 +63,4 @@ The critical path consists of the minimum milestones necessary for the project t
 - Determine duration for each task.
 
 The longest path found is the critical path.
-
-
 

@@ -1,23 +1,22 @@
 
 There are 4 phases to any project.
 
-- [Initiate](Initiate.md)
-- [Plan](Plan.md)
-- [Execute](Execute.md)
-- [Close](Close.md)
-
 # Initiate
 
 Define the project goals, scope, budget, resources, and identify stakeholders.
 
 # Plan
 
-Define the milestones and tasks and assign roles to each.
+Planning the project together in the early stages helps the team members get buy in into the project.
 
-budget
-tasks
+-  Define the [milestones and tasks](1-Milestones-Tasks.md).
+-  Assign [roles](2-Roles.md) to each task.
+-  Set the [schedule](3-Schedule.md).
+- Allocate the [budget](4-Budget.md).
+Make a risk management plan.
+
+
 communication
-schedule
 resources
 establish team
 determine roles and responsibilities
