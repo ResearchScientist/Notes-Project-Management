@@ -4,12 +4,15 @@
 |Agile|Iterative methodology. Used when scope is uncertain or it responds to new insights.|
 |Buffer|Time added to the end of a task or project to allow for unexpected delays.|
 |Capacity|Amount of work able to be completed within a time period given the allotted resources.|
+|Contingency Budget|Funds reserved for unforseen events not detailed in the cost estimate.|
 |Critical Path|The key milestones that must be reached for the project to reach its goal.|
 |Change Management|Process of delivering a completed project and getting people to adopt it.|
 |Cost Benefit Analysis|Compares the expected value of a project to the cost.|
+|Cost of Quality|Costs incurred to prevent issues with processes or tasks.|
 |Culture|Employee values and organization's mission and how they align.|
 |Estimate Effort|How much effort a task may require. Reported in time.|
 |Estimate Time|How long a task may take. Reported in time.|
+|Forecast|Estimate of cost over a specific time period.|
 |Iterative|Tasks can occur asyncrously or simultaneously.|
 |Kick Off Meeting|First project meeting where the team is oriented to the project goals and individual member roles.|
 |Landing|Measurement of success of a completed project.|
