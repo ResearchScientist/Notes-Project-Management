@@ -9,11 +9,11 @@ Define the project goals, scope, budget, resources, and identify stakeholders.
 
 Planning the project together in the early stages helps the team members get buy in into the project.
 
--  Define the [milestones and tasks](1-Milestones-Tasks.md).
--  Assign [roles](2-Roles.md) to each task.
--  Set the [schedule](3-Schedule.md).
+- Define the [milestones and tasks](1-Milestones-Tasks.md).
+- Assign [roles](2-Roles.md) to each task.
+- Set the [schedule](3-Schedule.md).
 - Allocate the [budget](4-Budget.md).
-Make a risk management plan.
+- Make a [risk management](5-Risk-Management.md) plan.
 
 
 communication

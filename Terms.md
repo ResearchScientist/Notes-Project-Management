@@ -21,6 +21,7 @@
 |Linear|Tasks occur one after the other in a specific order.|
 |Milestone|Progress marker, usually indicates completion of a project phase or deliverable.|
 |OKRs|Objectives and Key Results. Combine objectives and metrics.|
+|Procurement|Obtaining materials and services needed for a project.|
 |Project|Item with a beginning and end date that contains tasks.|
 |Project Charter|Document that outlines the project goals, scope, and requirements.|
 |Project Manager|Guides team and provides the support they need.|

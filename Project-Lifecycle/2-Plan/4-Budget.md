@@ -1,11 +1,5 @@
 
-
-
-procurement
-
 Budget is broken down by milestones.
-
-get sign off 
 
 ## Resource Cost Rates
 
@@ -15,8 +9,8 @@ get sign off
 - software
 
 ## Reserve Analysis
-Look for unaccounted project resources.
 
+Look for unaccounted project resources.
 
 ## Cost of Quality
 
@@ -40,10 +34,8 @@ Travel Expenses
 Buffer is around 5% of total project cost.
 Reserves
 
-
 Establish Baseline
 Amount to compare if project is below or over budget.
-
 
 Track planned cost vs actual cost.
 
@@ -60,4 +52,23 @@ Inform appropriate stakeholders of any changes.
 Manage changes as they occur.
 Decide with key stakeholders what budget overruns are acceptable such as 1% or 10%.
 
+# Procurement
+
+- Initiation : decide on what is needed (NDA)
+- Selection : decide on specific providers, services, and supplies (RFP)
+- Contracts : draft and sign (SOW)
+- Control : set up logistics for monitoring and maintaining quality
+- Completion : measure success of procurement
+
+In agile procurement the team is involved in the decision process and the procurement can change as the project progresses.
+
+In traditional procurement the project owner chooses providers and sets fixed schedules for services and supplies allowing for a clear timeline with set deadlines.
+
+NDA : non disclosure agreement
+RFP : request for proposal
+SOW : statement of work
+
+RFP
+
+![RFP](pm-rfp.png)
 
