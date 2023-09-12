@@ -13,6 +13,7 @@
 |Estimate Effort|How much effort a task may require. Reported in time.|
 |Estimate Time|How long a task may take. Reported in time.|
 |Forecast|Estimate of cost over a specific time period.|
+|Issue|A real event that can impact the project.|
 |Iterative|Tasks can occur asyncrously or simultaneously.|
 |Kick Off Meeting|First project meeting where the team is oriented to the project goals and individual member roles.|
 |Landing|Measurement of success of a completed project.|
@@ -26,6 +27,7 @@
 |Project Charter|Document that outlines the project goals, scope, and requirements.|
 |Project Manager|Guides team and provides the support they need.|
 |RACI Matrix|Defines team member roles and responsabilities.|
+|Risk|A potential event that can impact the project.|
 |Slack|Amount of time a task can be delayed before impacting the project schedule and success.|
 |Stakeholders|People interested in and affected by the project's success or failure.|
 |Stakeholder Buy-In|Involving stakeholders in decision making to gain their trust and participation.|
