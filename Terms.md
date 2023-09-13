@@ -22,12 +22,16 @@
 |Linear|Tasks occur one after the other in a specific order.|
 |Milestone|Progress marker, usually indicates completion of a project phase or deliverable.|
 |OKRs|Objectives and Key Results. Combine objectives and metrics.|
+|Probability and Impact Matrix|Matrix for prioritizing project risks.|
 |Procurement|Obtaining materials and services needed for a project.|
 |Project|Item with a beginning and end date that contains tasks.|
 |Project Charter|Document that outlines the project goals, scope, and requirements.|
 |Project Manager|Guides team and provides the support they need.|
 |RACI Matrix|Defines team member roles and responsabilities.|
 |Risk|A potential event that can impact the project.|
+|Risk Appetite|The willingness of the team and stakeholders to accept the possible outcomes of a risk.|
+|Risk Assessment|Measure or estimate of risks.|
+|Single Point of Failure|A risk with the potential to be catastrophic and halt the project.|
 |Slack|Amount of time a task can be delayed before impacting the project schedule and success.|
 |Stakeholders|People interested in and affected by the project's success or failure.|
 |Stakeholder Buy-In|Involving stakeholders in decision making to gain their trust and participation.|
