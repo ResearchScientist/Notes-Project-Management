@@ -10,6 +10,7 @@
 |Cost Benefit Analysis|Compares the expected value of a project to the cost.|
 |Cost of Quality|Costs incurred to prevent issues with processes or tasks.|
 |Culture|Employee values and organization's mission and how they align.|
+|Decision Tree|Flowchart for visualizing the impact of a decision on the overall project.|
 |Estimate Effort|How much effort a task may require. Reported in time.|
 |Estimate Time|How long a task may take. Reported in time.|
 |Forecast|Estimate of cost over a specific time period.|
@@ -31,6 +32,8 @@
 |Risk|A potential event that can impact the project.|
 |Risk Appetite|The willingness of the team and stakeholders to accept the possible outcomes of a risk.|
 |Risk Assessment|Measure or estimate of risks.|
+|Risk Management Plan|A living document detailing the mitigation plans for high level risks.|
+|Risk Register|A table displaying the risk, its inherent risk rating, and its mitigation.|
 |Single Point of Failure|A risk with the potential to be catastrophic and halt the project.|
 |Slack|Amount of time a task can be delayed before impacting the project schedule and success.|
 |Stakeholders|People interested in and affected by the project's success or failure.|
