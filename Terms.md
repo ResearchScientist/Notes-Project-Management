@@ -33,6 +33,7 @@
 |Risk|A potential event that can impact the project.|
 |Risk Appetite|The willingness of the team and stakeholders to accept the possible outcomes of a risk.|
 |Risk Assessment|Measure or estimate of risks.|
+|Risk Exposure|Measures the potential loss from a specific event.|
 |Risk Management Plan|A living document detailing the mitigation plans for high level risks.|
 |Risk Register|A table displaying the risk, its inherent risk rating, and its mitigation.|
 |Roadmap|High level overview of important milestones. Illustrates how a project will evolve over time.|

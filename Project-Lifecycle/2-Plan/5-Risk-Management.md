@@ -9,23 +9,11 @@ Conduct a risk assessment.
 - use a probability and impact matrix to determine the inherent risk of each risk
 - use a risk register (a table listing all the risks) to tabulate and sort the risks
 
-**Fishbone Diagram**
+Use a [Fishbone Diagram](Fishbone%20Diagram.md) to visualize the causes and effects of risks.
 
-![pm-fishbone](pm-fishbone.png)
+Use a [Probability and Impact Matrix](Probability%20and%20Impact%20Matrix.md) to obtain inherent risk levels. You only want to concern yourself with inherent risks that have a medium or high rating.
 
-**Probability and Impact Matrix**
-
-![pm-prob-imp-mtx](pm-prob-imp-mtx.png)
-
-The intersection of the probability and impact of a risk gives its inherent risk. Also expressed as low med or high.
-
-You only want to concern yourself with inherent risks that have a medium or high rating.
-
-**Risk Register**
-
-![pm-risk-register](pm-risk-register.png)
-
-Include a description of the risk, its inherent risk rating, and how the risk can be mitigated.
+Use a [Risk Register](Risk%20Register.md) to sort risks based on inherent risk and their mitigation plan.
 
 **Important Risk Types**
 
@@ -39,6 +27,7 @@ Include a description of the risk, its inherent risk rating, and how the risk ca
 - regulatory
 
 Form contingencies for dependencies. Dependencies cannot begin until their linked action is complete.
+
 # Mitigate Risks
 
 - avoid : take action that eliminates the risk

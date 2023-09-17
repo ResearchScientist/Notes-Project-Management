@@ -13,15 +13,8 @@ Include
 
 ## Gantt Chart
 
-A gantt chart is a good choice.
-Phases : Research , Design , Development
-
-![gantt-pm](gantt.png)
-
-As a spreadsheet.
-Phases : Initiation , Planning , Execution , Quality
-
-![PM-gantt - Sheet1](gantt.pdf)
+A gantt chart is a good choice for visualizing the full project schedule.
+It displays the tasks, milestones, duration, and important dates.
 
 # Time Estimates
 
