@@ -3,6 +3,7 @@
 |--|--|
 |Agile|Iterative methodology. Used when scope is uncertain or it responds to new insights.|
 |Buffer|Time added to the end of a task or project to allow for unexpected delays.|
+|Burndown Chart|A time measure of the work done vs the work remaining.|
 |Capacity|Amount of work able to be completed within a time period given the allotted resources.|
 |Contingency Budget|Funds reserved for unforseen events not detailed in the cost estimate.|
 |Critical Path|The key milestones that must be reached for the project to reach its goal.|
@@ -34,6 +35,7 @@
 |Risk Assessment|Measure or estimate of risks.|
 |Risk Management Plan|A living document detailing the mitigation plans for high level risks.|
 |Risk Register|A table displaying the risk, its inherent risk rating, and its mitigation.|
+|Roadmap|High level overview of important milestones. Illustrates how a project will evolve over time.|
 |Single Point of Failure|A risk with the potential to be catastrophic and halt the project.|
 |Slack|Amount of time a task can be delayed before impacting the project schedule and success.|
 |Stakeholders|People interested in and affected by the project's success or failure.|

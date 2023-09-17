@@ -11,6 +11,8 @@ Include
 - phases
 - granulize as necessary into months, weeks, days, hours
 
+## Gantt Chart
+
 A gantt chart is a good choice.
 Phases : Research , Design , Development
 
