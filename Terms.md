@@ -30,6 +30,9 @@
 |Project|Item with a beginning and end date that contains tasks.|
 |Project Charter|Document that outlines the project goals, scope, and requirements.|
 |Project Manager|Guides team and provides the support they need.|
+|Quality|Meet the requirements of the project and meet the needs of the users.|
+|Quality Assurance|Project evaluation to determine if on track to deliver high quality.|
+|Quality Control|Monitors project deliverables to determine if they meet quality standards.|
 |RACI Matrix|Defines team member roles and responsabilities.|
 |Retrospective|Forum for discussing setbacks, successes, and improvements.|
 |Risk|A potential event that can impact the project.|
