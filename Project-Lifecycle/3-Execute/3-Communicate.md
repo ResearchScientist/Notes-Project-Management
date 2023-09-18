@@ -16,3 +16,19 @@ Questions to ask based on my personal weekly retrospective
 - what to start and why
 
 Answering the why is key in improving any processes.
+
+# User Relations
+
+- negotiation
+- empathetic listening
+- trust building
+
+Ask open ended questions to understand the users' current state versus their desired state.
+
+Set clear expectations on when you will communicate certain things with the users.
+
+Communicate any issues calmly and with empathy.
+- Understand their frustration.
+- Address their frustration.
+- Find a satisfactory solution.
+
