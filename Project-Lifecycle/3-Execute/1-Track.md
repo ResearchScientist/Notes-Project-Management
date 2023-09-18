@@ -45,6 +45,8 @@ Change Discussion Template
 
 ![pm-change-discussion-b](pm-change-discussion-b.png)
 
+Additionally, after a significant change such as a change in scope or team member role reassignments set a timeout to allow team members to reevaluate the plan, adjust the plan, and acclimate themselves to the new change.
+
 # Dependencies
 
 - Internal : related tasks within the same project
@@ -65,7 +67,6 @@ Use a [Risk Exposure Matrix](Risk%20Exposure%20Matrix.md) for tracking risk expo
 
 <mark style="background: rgb(100,100,200)">The example given seems to be the same as a risk register. This does not show exposure.</mark>
 
-
 ## ROAM
 
 Method for managing a live risk.
@@ -76,9 +77,3 @@ Method for managing a live risk.
 - mitigated : probability has been reduced or impact has been reduced
 
 Enter risks into a table for sorting and prioritizing.
-
-
-
-
-
-

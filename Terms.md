@@ -12,6 +12,7 @@
 |Cost of Quality|Costs incurred to prevent issues with processes or tasks.|
 |Culture|Employee values and organization's mission and how they align.|
 |Decision Tree|Flowchart for visualizing the impact of a decision on the overall project.|
+|Escalate|Ask higher level leadership to remove an obstacle, clarify or reinforce priorities, or validate next steps.|
 |Estimate Effort|How much effort a task may require. Reported in time.|
 |Estimate Time|How long a task may take. Reported in time.|
 |Forecast|Estimate of cost over a specific time period.|
@@ -30,6 +31,7 @@
 |Project Charter|Document that outlines the project goals, scope, and requirements.|
 |Project Manager|Guides team and provides the support they need.|
 |RACI Matrix|Defines team member roles and responsabilities.|
+|Retrospective|Forum for discussing setbacks, successes, and improvements.|
 |Risk|A potential event that can impact the project.|
 |Risk Appetite|The willingness of the team and stakeholders to accept the possible outcomes of a risk.|
 |Risk Assessment|Measure or estimate of risks.|
@@ -44,6 +46,7 @@
 |Stakeholder Interest Matrix|2x2 grid for categorizing stakeholders based on their power and interest in the project.|
 |Steering Committee|Stakeholders with high power and high interest in the project.|
 |Task|Activity to be completed within a time frame.|
+|Timeout|Removing oneself from the project for a brief time in order to regroup and restrategize.|
 |Triple Constraint Model|Considers scope, cost, time in evaluating the feasibility of adjusting a project.|
 |Waterfall|Linear methodology. Used when scope is known and will not change.|
 |Work Breakdown Structure|Sorting of milestones and tasks in order of required completion.|
