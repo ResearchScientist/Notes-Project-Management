@@ -59,3 +59,5 @@ The critical path consists of the minimum milestones necessary for the project t
 
 The longest path found is the critical path.
 
+Use a [Network Diagram](Network%20Diagram.md) to identify and visualize the critical path.
+
