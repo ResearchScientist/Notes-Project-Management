@@ -25,8 +25,10 @@
 |Linear|Tasks occur one after the other in a specific order.|
 |Milestone|Progress marker, usually indicates completion of a project phase or deliverable.|
 |OKRs|Objectives and Key Results. Combine objectives and metrics.|
+|Portfolio|A group of programs.|
 |Probability and Impact Matrix|Matrix for prioritizing project risks.|
 |Procurement|Obtaining materials and services needed for a project.|
+|Program|A group of projects.|
 |Project|Item with a beginning and end date that contains tasks.|
 |Project Charter|Document that outlines the project goals, scope, and requirements.|
 |Project Manager|Guides team and provides the support they need.|
@@ -53,5 +55,4 @@
 |Triple Constraint Model|Considers scope, cost, time in evaluating the feasibility of adjusting a project.|
 |Waterfall|Linear methodology. Used when scope is known and will not change.|
 |Work Breakdown Structure|Sorting of milestones and tasks in order of required completion.|
-
 
