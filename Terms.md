@@ -10,6 +10,7 @@
 |Change Management|Process of delivering a completed project and getting people to adopt it.|
 |Cost Benefit Analysis|Compares the expected value of a project to the cost.|
 |Cost of Quality|Costs incurred to prevent issues with processes or tasks.|
+|Cost Variance|Difference between the real cost and the budgeted cost.|
 |Culture|Employee values and organization's mission and how they align.|
 |Decision Tree|Flowchart for visualizing the impact of a decision on the overall project.|
 |Escalate|Ask higher level leadership to remove an obstacle, clarify or reinforce priorities, or validate next steps.|
