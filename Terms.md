@@ -1,4 +1,3 @@
-
 |Term|Definition|
 |--|--|
 |Agile|Iterative methodology. Used when scope is uncertain or it responds to new insights.|
