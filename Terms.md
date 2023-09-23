@@ -11,6 +11,7 @@
 |Cost of Quality|Costs incurred to prevent issues with processes or tasks.|
 |Cost Variance|Difference between the real cost and the budgeted cost.|
 |Culture|Employee values and organization's mission and how they align.|
+|Dashboard|GUI that gives a snapshot of the project's progress or performance.|
 |Decision Tree|Flowchart for visualizing the impact of a decision on the overall project.|
 |Escalate|Ask higher level leadership to remove an obstacle, clarify or reinforce priorities, or validate next steps.|
 |Estimate Effort|How much effort a task may require. Reported in time.|
@@ -19,6 +20,7 @@
 |Issue|A real event that can impact the project.|
 |Iterative|Tasks can occur asyncrously or simultaneously.|
 |Kick Off Meeting|First project meeting where the team is oriented to the project goals and individual member roles.|
+|KPI|Key Perfomance Indicator. Metric for tracking effectiveness of achieving key objectives.|
 |Landing|Measurement of success of a completed project.|
 |Launch|Project delivery at complesion.|
 |Lean Six Sigma|Define problem, measure, analyse, improve, control.|
@@ -44,12 +46,14 @@
 |Risk Management Plan|A living document detailing the mitigation plans for high level risks.|
 |Risk Register|A table displaying the risk, its inherent risk rating, and its mitigation.|
 |Roadmap|High level overview of important milestones. Illustrates how a project will evolve over time.|
+|Signals|Data points that indicate the health of a task or project.|
 |Single Point of Failure|A risk with the potential to be catastrophic and halt the project.|
 |Slack|Amount of time a task can be delayed before impacting the project schedule and success.|
 |Stakeholders|People interested in and affected by the project's success or failure.|
 |Stakeholder Buy-In|Involving stakeholders in decision making to gain their trust and participation.|
 |Stakeholder Interest Matrix|2x2 grid for categorizing stakeholders based on their power and interest in the project.|
 |Steering Committee|Stakeholders with high power and high interest in the project.|
+|Storytelling|Turning data into a narrative that communicates a specific point to the audience.|
 |Task|Activity to be completed within a time frame.|
 |Timeout|Removing oneself from the project for a brief time in order to regroup and restrategize.|
 |Triple Constraint Model|Considers scope, cost, time in evaluating the feasibility of adjusting a project.|

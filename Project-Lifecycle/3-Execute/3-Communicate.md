@@ -60,3 +60,10 @@ Communicate any issues calmly and with empathy.
 - Address their frustration.
 - Find a satisfactory solution.
 
+# Meetings and Presentations
+
+Continuously communicate throughout the project via
+
+- kick off meeting
+- weekly status updates
+- final project presentation
