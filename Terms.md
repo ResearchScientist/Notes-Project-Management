@@ -55,6 +55,7 @@
 |Steering Committee|Stakeholders with high power and high interest in the project.|
 |Storytelling|Turning data into a narrative that communicates a specific point to the audience.|
 |Task|Activity to be completed within a time frame.|
+|Team Dynamics|Conscious and subconscious forces that impact team behaviour and performance.|
 |Timeout|Removing oneself from the project for a brief time in order to regroup and restrategize.|
 |Triple Constraint Model|Considers scope, cost, time in evaluating the feasibility of adjusting a project.|
 |Waterfall|Linear methodology. Used when scope is known and will not change.|
