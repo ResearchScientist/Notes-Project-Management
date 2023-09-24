@@ -37,4 +37,3 @@ Include a text summary of information presented in a graph or chart.
 Send slides ahead of presentation to members. Or send a bulleted list of talking points.
 
 Include a list of terms if using non standard language.
-

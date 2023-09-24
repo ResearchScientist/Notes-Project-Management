@@ -6,11 +6,12 @@
 - [Team Effectiveness](#Team%20Effectiveness)
 - [Team Development](#Team%20Development)
 - [Team Dynamics](#Team%20Dynamics)
+- [Inclusion](#Inclusion)
+- [Influence](#Influence)
+
 
 - motivation
 - engagement
-- influence
-- ethical and inclusive
 
 # Leader
 
@@ -125,5 +126,61 @@ To align the team the project manager communicates the purpose, goals, dependenc
 
 # Inclusion
 
-Ethical and inclusive leadership.
+Provide ethical and inclusive leadership by
+
+- modeling the behaviour you want to see
+- making a safe environment
+- inviting team members to share their thoughts, ideas, and concerns
+- providing each member equal opportunities to succeed
+
+# Influence
+
+## Process
+
+- **Establish credibility**
+	- be knowledgeable
+		- by sharing your expertise via credentials or experience
+	- be trustworthy
+		- by being honest and ethical
+	- be likable
+		- by building relationships
+- **Find Common Ground**
+	- understand their perspective
+		- by listening to their needs, values, and concerns
+	- frame arguments in a manner that resonates with their needs, values, and concerns
+		- by expressing how it solves their problems and benefits them
+- **Provide Evidence**
+	- validate your argument
+		- by providing data, stats, or expert opinions
+	- choose appropriate validation
+		- by understanding the audience's needs, values, and concerns
+		- by knowing their demographics
+- **Connect Emotionally**
+	- appeal to their values, hopes and desires, and fears
+		- by using vivid language, crafting a story, and creating a sense of urgency
+
+Do not make the interaction about you. Instead make it about them and how they benefit. 
+
+Influencing is a negotiation. Be patient, do not be pushy. It may take multiple interactions to influence someone.
+## Power
+
+Sources that boost your influence.
+
+Organizational
+
+- role : position in the project
+- information : level of access and control over information related to the project
+- network : other people with varying degrees of power you are connected with
+- reputation : perception by others
+
+Personal
+
+- knowledge : expertise, abilities, and skills
+- expressiveness : ability to communicate
+- history : amount of time people know you
+- character : other's views of your qualities
+
+## Excitement
+
+Influencing someone should not be a burden or a task. It should be exciting. You have an idea you want to share. You're excited about your idea. Help them understand how your idea relates to them so they can be excited too.
 
