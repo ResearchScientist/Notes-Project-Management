@@ -8,6 +8,7 @@
 - [Team Dynamics](#Team%20Dynamics)
 - [Inclusion](#Inclusion)
 - [Influence](#Influence)
+- [Teach](#Teach)
 
 
 - motivation
@@ -184,3 +185,12 @@ Personal
 
 Influencing someone should not be a burden or a task. It should be exciting. You have an idea you want to share. You're excited about your idea. Help them understand how your idea relates to them so they can be excited too.
 
+# Teach
+
+Some team members learn by 
+
+- watching
+- reading
+- doing
+
+Make sure to account for each member's preferred style.

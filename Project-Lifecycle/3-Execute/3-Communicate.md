@@ -1,7 +1,16 @@
+- [Channels](#Channels)
+- [Retrospective](#Retrospective)
+- [User Relations](#User%20Relations)
+- [Meetings and Presentations](#Meetings%20and%20Presentations)
+- [Documents](#Documents)
+
+# Channels
+
 Communication channels depend on the type of information and on who is receiving the communication.
 
 - Email : For small changes that affect one individual.
 - Team Meeting : For a large change that impacts the whole team , such as a change in schedule, scope, or budget.
+- Instant Message : For urgent updates.
 
 # Retrospective
 
@@ -67,3 +76,35 @@ Continuously communicate throughout the project via
 - kick off meeting
 - weekly status updates
 - final project presentation
+
+Meetings should be
+
+- structured
+	- begin and end on time
+	- select attendees who can contribute , who can benefit
+	- prioritize topics
+	- timebox topics
+	- have a notetaker
+- intentional
+	- clearly state purpose and expectations
+	- use agenda to detail the topics, goals, times, lengths
+- collaborative
+	- provide a space for discussion
+	- send any readings to members prior to meeting so they can prepare
+	- have a questions session or provide details on how to give feedback
+- inclusive
+	- allow for various formats for members to respond through, such as chat or meeting notes
+	- have a moderator so they can focus on fielding audience questions while the presenter can focus on presenting
+	- make sure the team members feel appreciated
+
+# Documents
+
+Documents are also used for communication.
+
+As the project manager decide 
+
+- how docs are to be used
+- who has access
+- how often to update docs
+
+
