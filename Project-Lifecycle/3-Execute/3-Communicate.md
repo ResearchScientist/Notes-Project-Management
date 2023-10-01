@@ -18,6 +18,8 @@ Retrospectives are usually conducted after key milestones, sprints, launches, an
 
 A retrospective's goal is to identify the contributing causes of an incident or pattern of incidents. The goal is not to blame individuals.
 
+Benefits of a retrospective include team building, collaboration, and positive change.
+
 The process and outcome of the retrospective should be positive. You want to identify improvements. You want everyone to feel empowered and hopeful about the project.
 ## Questions
 
