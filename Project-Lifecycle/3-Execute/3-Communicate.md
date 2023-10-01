@@ -88,5 +88,3 @@ As the project manager decide
 - how docs are to be used
 - who has access
 - how often to update docs
-
-

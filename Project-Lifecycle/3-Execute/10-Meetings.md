@@ -48,3 +48,18 @@ Topics include
 
 Goal is to get buy in from stakeholders.
 
+Stakeholder meetings are more formal than other meetings.
+Meetings can be in a large group setting or one on one.
+For large groups focus on the key stakeholder's needs. 
+
+## Format
+
+- present project update
+- obtain feedback
+- make a decision / resolve major issue
+
+Frequency of meeting can be a regular occurrence or a one time only meeting.
+
+
+
+
