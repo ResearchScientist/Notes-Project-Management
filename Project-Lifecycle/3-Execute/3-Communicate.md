@@ -75,27 +75,9 @@ Continuously communicate throughout the project via
 
 - kick off meeting
 - weekly status updates
+- stakeholder reviews
+- project reviews
 - final project presentation
-
-Meetings should be
-
-- structured
-	- begin and end on time
-	- select attendees who can contribute , who can benefit
-	- prioritize topics
-	- timebox topics
-	- have a notetaker
-- intentional
-	- clearly state purpose and expectations
-	- use agenda to detail the topics, goals, times, lengths
-- collaborative
-	- provide a space for discussion
-	- send any readings to members prior to meeting so they can prepare
-	- have a questions session or provide details on how to give feedback
-- inclusive
-	- allow for various formats for members to respond through, such as chat or meeting notes
-	- have a moderator so they can focus on fielding audience questions while the presenter can focus on presenting
-	- make sure the team members feel appreciated
 
 # Documents
 
