@@ -32,6 +32,15 @@ Questions to ask based on my personal weekly retrospective
 - what to start and why
 
 Answering the why is key in improving any processes.
+
+Other questions.
+
+- how is the team doing
+- are the users happy
+- are there processes we could optimize
+- are our tools working for us
+- are we following the values
+- are we accumulating any debt , technical or otherwise
 ## Format
 
 Retrospectives can be conducted as 
