@@ -36,5 +36,5 @@ Risk : Vendor at risk of not meeting milestone.
 
 **Impact Chart**
 
-![pm-impact-chart](pm-impact-chart.png)
+![pm-impact-chart](../Images/pm-impact-chart.png)
 

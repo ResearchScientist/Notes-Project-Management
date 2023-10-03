@@ -10,10 +10,11 @@ You can include swim lanes for different teams or phases.
 
 Phases : Research , Design , Development
 
-![gantt-pm](gantt.png)
+
+![gantt](../Images/gantt.png)
 
 As a spreadsheet.
 Phases : Initiation , Planning , Execution , Quality
 
-![PM-gantt - Sheet1](gantt.pdf)
+![gantt](../Images/gantt.pdf)
 

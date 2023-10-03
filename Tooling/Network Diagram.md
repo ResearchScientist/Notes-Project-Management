@@ -11,6 +11,6 @@ For each task include
 Place tasks according to date.
 Draw lines between tasks if they share a dependency.
 
-![network diagram](pm-network-diagram.png)
+![pm-network-diagram](../Images/pm-network-diagram.png)
 
 The longest sequence of tasks is the critical path.

@@ -41,9 +41,9 @@ When encountering a change a new action needs to be implemented. A change reques
 
 Change Discussion Template
 
-![pm-change-discussion-a](pm-change-discussion-a.png)
+![pm-change-discussion-a](../../Images/pm-change-discussion-a.png)
 
-![pm-change-discussion-b](pm-change-discussion-b.png)
+![pm-change-discussion-b](../../Images/pm-change-discussion-b.png)
 
 Additionally, after a significant change such as a change in scope or team member role reassignments set a timeout to allow team members to reevaluate the plan, adjust the plan, and acclimate themselves to the new change.
 

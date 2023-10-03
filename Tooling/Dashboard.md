@@ -1,6 +1,6 @@
 A dashboard is snapshot displaying the project's health.
 
-![pm-dashboard](pm-dashboard.png)
+![pm-dashboard](../Images/pm-dashboard.png)
 
 Instead of presenting a table of individual data points, present the average satisfaction score. 
 

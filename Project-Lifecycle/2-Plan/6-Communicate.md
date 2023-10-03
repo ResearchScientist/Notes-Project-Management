@@ -26,7 +26,7 @@ The actual format can be anything you like as long as what's above is covered.
 
 Communication Plan example i
 
-![pm-communication-plan](pm-communication-plan-i.png)
+![pm-communication-plan-i](../../Images/pm-communication-plan-i.png)
 
 - Type : What type of communication will be delivered.
 - Frequency : How often to communicate.
@@ -39,11 +39,11 @@ Communication Plan example i
 
 Communication Plan example ii
 
-![pm-communication-plan-ii](pm-communication-plan-ii.png)
+![pm-communication-plan-ii](../../Images/pm-communication-plan-ii.png)
 
 Communication Plan example iii
 
-![pm-communication-plan-iii](pm-communication-plan-iii.png)
+![pm-communication-plan-iii](../../Images/pm-communication-plan-iii.png)
 
 # Identify Recipients
 

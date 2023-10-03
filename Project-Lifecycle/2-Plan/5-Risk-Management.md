@@ -71,4 +71,3 @@ This sets realistic expectations and offers an opportunity for you to make appro
 - agenda item is to present the high level risks and their mitigation plans
 - get feedback on risk management plan
 - ask for insights from stakeholders on how to handle these high level risks
-

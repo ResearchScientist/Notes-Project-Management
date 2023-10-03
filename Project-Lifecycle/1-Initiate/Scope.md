@@ -9,6 +9,7 @@ Resources
 # Tasks
 
 Tasks must be continuosly evaluated to keep the project on track.
+
 ## In-scope
 
 Tasks that contribute to the project goal.

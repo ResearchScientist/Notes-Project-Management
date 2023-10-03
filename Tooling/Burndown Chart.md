@@ -2,5 +2,6 @@ A chart that visualizes the work completed against the work that still needs to 
 
 Use when finishing the project on time is the top priority.
 
-![pm-burndown-chart](pm-burndown-chart.png)
+![pm-burndown-chart](../Images/pm-burndown-chart.png)
+
 

@@ -69,6 +69,4 @@ RFP : request for proposal
 SOW : statement of work
 
 RFP
-
-![RFP](pm-rfp.png)
-
+![pm-rfp](../../Images/pm-rfp.png)
