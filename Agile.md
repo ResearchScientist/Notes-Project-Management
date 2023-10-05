@@ -126,7 +126,6 @@ such as a fibonnacci sequence in which as numbers get larger the distance betwee
 - 1
 - 3
 - 5
-
 # User Stories
 
 - user
@@ -217,3 +216,56 @@ Each planned release includes
 
 Review the planned release prior to the sprint to ensure the viability of sustainable capacity and velocity.
 
+
+# Change Management
+
+Implementing a procedural change is an incremental process.
+
+- find a stakeholder who feels a change of ownership and buy in for the change you're implementing
+	- this ally will help motivate the team
+- create a sense of urgency , ask
+	- what is preventing us from providing the best product to our users
+	- what is allowing our competitors to outperform us in this sector
+	- how can we help our teams be more productive and supported
+	- these questions help the team see the benefit of the change and get buy in
+
+
+# Scrum Master
+
+- design the play book with the team
+- provide feedback
+- celebrate the team
+
+# Proactive Damage Control
+
+- pay attention to signs of distrust between teams
+	- address by conducting a solution design sprint so everyone sees how each team contributes and they all benefit
+- be aware of team's ad hock work load
+	- when on a sprint and other manager asks team members to do a task ask manager to come directly to you instead so you can schedule their request and thus not interrupt the teams workflow and velocity
+- look for signs of low morale, or high conflict or low conflict between team
+	- run a team brainstorming session on how to work better together
+		- ask them to write story on best team they worked on and worst team they worked on, then share in the meeting, then make a list of do's and don'ts based on the stories
+	- introduce fresh workflows to change things up
+	- take a training session on team work together
+	- conduct a 6 hat retrospective
+
+
+# Six Hat Retrospective
+
+- blue hat - 1 minutes
+	- Discuss objectives for the session.
+- white hat - 5 minutes
+	- Raise and discuss anything from the last iteration. Facts and information.
+- yellow hat - 5 minutes
+	- Discuss good things that happened.
+- black hat - 5 minutes
+	- Discuss bad things that happened, frustrations, breakdowns and such.
+- green hat - 5 minutes
+	- Discuss solutions and ideas on what may add value to the process.
+- red hat - 2 minutes
+	- Share emotive statements. How do you feel.
+
+
+## Solution Design Sprint
+
+A solution design sprint is a sprint dedicated to working on drafting the design of the solution. Involve all teams working on the project and gather everyone's feedback.
