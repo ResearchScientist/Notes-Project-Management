@@ -55,6 +55,7 @@
 |Stakeholder Interest Matrix|2x2 grid for categorizing stakeholders based on their power and interest in the project.|
 |Steering Committee|Stakeholders with high power and high interest in the project.|
 |Storytelling|Turning data into a narrative that communicates a specific point to the audience.|
+|Strategic Thinking|Analyzing docs and speaking with stakeholders to inform decision making.|
 |Task|Activity to be completed within a time frame.|
 |Team Dynamics|Conscious and subconscious forces that impact team behaviour and performance.|
 |Timeout|Removing oneself from the project for a brief time in order to regroup and restrategize.|

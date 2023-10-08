@@ -228,6 +228,9 @@ Implementing a procedural change is an incremental process.
 	- what is allowing our competitors to outperform us in this sector
 	- how can we help our teams be more productive and supported
 	- these questions help the team see the benefit of the change and get buy in
+- implement one small change at a time
+	- introduce the use of a kanban board for a while
+	- start with a weekly retrospective
 
 
 # Scrum Master
@@ -269,3 +272,13 @@ Implementing a procedural change is an incremental process.
 ## Solution Design Sprint
 
 A solution design sprint is a sprint dedicated to working on drafting the design of the solution. Involve all teams working on the project and gather everyone's feedback.
+
+# Early In the Project
+
+- identify all assumptions
+- validate them with user research
+
+# DevOps
+
+Develop faster and reliable at large scale.
+
