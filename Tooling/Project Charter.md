@@ -33,7 +33,10 @@ Explain why the project is being done.
 - time
 - resources
 
-- required budget
+## Budget
+
+- estimate of required moneys
+- estimate of allocated moneys
 
 ## Scope
 
