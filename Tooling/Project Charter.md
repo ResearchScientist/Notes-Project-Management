@@ -30,7 +30,8 @@ Explain why the project is being done.
 - benefit
 
 - cost
-- cost
+- time
+- resources
 
 - required budget
 
@@ -39,14 +40,22 @@ Explain why the project is being done.
 Describe what will and will not be done by the project.
 ### In Scope
 
-- item
-- item
+The boundaries of the project.
 
+- item
+- item
 ### Out of Scope
 
+Items that do not contribute to the project's goals.
+
 - item
 - item
 
+## Misalignments
+
+- description of misalignments
+- resolution to misalignments
+-
 ## Project Team
 
 - sponsor
@@ -61,3 +70,10 @@ Describe what will and will not be done by the project.
 ## Success
 
 Describe the measures that need to be reached to consider the project a success.
+
+# Appendix
+
+A section for adding items as they come up. These include the date of the addition or change. Probably best to add items here and a link to their relevant area in the charter.
+
+- additional item 1 : description , date
+- additional item 2 : description , date

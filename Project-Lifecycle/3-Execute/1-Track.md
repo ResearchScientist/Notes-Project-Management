@@ -7,6 +7,7 @@ Key items to track.
 - [Changes](#Changes)
 - [Dependencies](#Dependencies)
 - [Risks](#Risks)
+- [Misalignments](#Misalignments)
 - costs
 - key decisions
 
@@ -47,6 +48,7 @@ Change Discussion Template
 
 Additionally, after a significant change such as a change in scope or team member role reassignments set a timeout to allow team members to reevaluate the plan, adjust the plan, and acclimate themselves to the new change.
 
+Make sure to document these changes in the [Project Charter](../../Tooling/Project%20Charter.md).
 # Dependencies
 
 - Internal : related tasks within the same project
@@ -77,3 +79,11 @@ Method for managing a live risk.
 - mitigated : probability has been reduced or impact has been reduced
 
 Enter risks into a table for sorting and prioritizing.
+
+# Misalignments
+
+When one or more stakeholders have different goals than the other stakeholders. 
+
+- facilitate a meeting between disagreeing stakeholders to arrive at a mutually beneficial solution
+- document misalignments and their solution in the [Project Charter](../../Tooling/Project%20Charter.md)
+

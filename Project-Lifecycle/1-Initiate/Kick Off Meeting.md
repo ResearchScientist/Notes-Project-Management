@@ -5,6 +5,7 @@ This offers a space for questions so that all members are in alignment with expe
 
 Most useful for a large project. For a small project an email or newsletter may suffice.
 
+The [Project Charter](../../Tooling/Project%20Charter.md) is the key document presented here.
 ## Meeting Participants
 
 People who should be at the meeting.
@@ -38,6 +39,7 @@ People who should be at the meeting.
 - Questions
 	- members can get clarity on the meeting's topics
 	- members can express their diverse thoughts, experiences, and ideas
+	- identify misalignments between stakeholders
 	- this can also be placed in a shared document
 
 Prepare the agenda with time estimates for each section and deliver to attendees a few days prior to the meeting. Inform them of any prior readings necessary so they can be prepared for the meeting.
