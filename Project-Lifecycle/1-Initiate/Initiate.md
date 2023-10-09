@@ -4,6 +4,8 @@
 - identify [Benefits](#Benefits)
 - identify [Costs](#Costs)
 - define [Budget](#Budget)
+- conduct [Stakeholder Analysis](#Stakeholder%20Analysis)
+- [Negotiate](#Negotiate)
 detail deliverables
 agree on success criteria
 identify resources
@@ -84,4 +86,33 @@ A better strategy is to motivate people to want to join your project.
 	- this increases accountability
 	- identify key stakeholders
 	- finesse personality conflicts so they can work together
+
+# Stakeholder Analysis
+
+Visual representation of
+
+- stakeholders
+- stakeholder priorities
+- communication preferences
+- needs
+- goals
+
+Identify how much influence each has on the project.
+Identify how much their needs (interest) will be affected by the project operation and outcomes.
+
+Use a [RACI Matrix](../../Tooling/RACI%20Matrix.md) and [Stakeholder Interest Matrix](../../Tooling/Stakeholder%20Interest%20Matrix.md) to visualize these relationships.
+
+Adapt your negotiation strategy to each.
+
+# Negotiate
+
+Get alignment amongst stakeholders as early as possible to avoid the need for negotiating changes later on.
+
+Things that may require negotiation
+- scope
+- costs and benefits
+- schedule
+- success criteria
+- roles and responsibilities
+- resources
 
