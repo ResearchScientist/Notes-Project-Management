@@ -116,3 +116,42 @@ Things that may require negotiation
 - roles and responsibilities
 - resources
 
+Negotiation is a tool used to
+
+- enhance communication
+- clarify wants and needs
+- find solutions beneficial to all involved
+
+Stakeholders are your colleagues and partners not opponents.
+
+Goal is to find a solution that maximizes benefits, minimizes losses, and is fair to all involved.
+
+## Solutions
+
+Brainstorm solutions.
+
+Use the [Triple Constraint Model](Scope.md#Triple%20Constraint%20Model) when negotiating a solution.
+
+Present multiple solution proposals based on alternate changes to the model that meet or approach their requests.
+
+The project manager is the one who has a bird's eye view of the project and that is why they come to you.
+
+## Coalition
+
+Find other stakeholders to advocate together with. This increases your influence and boosts your credibility.
+
+They can help
+- find common ground
+- provide evidence
+- connect emotionally
+
+Make sure they have a vested interest and have power.
+
+Use one of your [Stakeholder Analysis](#Stakeholder%20Analysis) tools such as a [RACI Matrix](../../Tooling/RACI%20Matrix.md) or [Stakeholder Interest Matrix](../../Tooling/Stakeholder%20Interest%20Matrix.md) to find suitable stakeholders.
+
+Request their involvement by
+- clearly indicate what aspect of the project is being negotiated
+- inform them of your solution or position
+- ask them to support your solution or position
+- indicate how the negotiation impacts their needs or benefits from their expertise
+
