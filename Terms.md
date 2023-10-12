@@ -35,6 +35,7 @@
 |Project|Item with a beginning and end date that contains tasks.|
 |Project Charter|Document that outlines the project goals, scope, and requirements.|
 |Project Manager|Guides team and provides the support they need.|
+|Project Plan|Documents the scope, milestones, activities, and budget for the project.|
 |Quality|Meet the requirements of the project and meet the needs of the users.|
 |Quality Assurance|Project evaluation to determine if on track to deliver high quality.|
 |Quality Control|Monitors project deliverables to determine if they meet quality standards.|
