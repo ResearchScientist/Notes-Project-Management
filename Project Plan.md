@@ -1,31 +1,66 @@
 
+- [Identify Tasks](#Identify%20Tasks)
+- [Acquire Domain Knowledge](#Acquire%20Domain%20Knowledge)
+- [Fill In Gaps](#Fill%20In%20Gaps)
+- [Synthesize Details](#Synthesize%20Details)
+- [Order Tasks](#Order%20Tasks)
+
 - schedule
 	- estimates for project tasks
 	- milestones
 	- monitor project progress
 
-# Schedule
+# Identify Tasks
 
 Based on the goals and deliverables defined in the [Project Charter](Tooling/Project%20Charter.md) make a list of all items that have milestones or tasks associated with them.
 
-- identify what tasks must be completed to achieve each item
-	- review previous similar projects
-	- ask for emails regarding other similar project
-		- this helps find relevant people
-		- this gives insights into the process
+Identify what tasks must be completed to achieve each item by
 
+- reviewing previous similar projects
+- asking for emails regarding other similar project
+	- this helps find relevant people
+	- this gives insights into the process
+- talking to stakeholders, team members, and vendors
+	- brainstorm with team members who are likely perform the tasks
+	- hold one on one conversations with team members who are likely to be responsible for performing the task
 
-# Domain Knowledge
+# Acquire Domain Knowledge
 
-Includes relevant specialized knowledge such as terms, techniques, and processes unique to the industry or segment the project is servicing.
+Domain knowledge includes relevant specialized knowledge such as terms, techniques, and processes unique to the industry or segment the project is servicing.
 
-- gain domain knowledge
-	- conduct online research
-		- search blog posts , corporate communication , news , research
-		- identify issues and how they managed them
-		- identify successes and how they implemented them
-		- use keywords such as "best practices" and "key takeaways"
-		- research similar projects in other industries- 
+Gain domain knowledge by
+
+- conducting online research
+	- searching blog posts , corporate communication , news , research
+	- identifying issues and how they managed them
+	- identifying successes and how they implemented them
+	- using keywords such as "best practices" and "key takeaways"
+	- researching similar projects in other industries
+- talking to stakeholders, team members, and vendors
 
 based on your list of items
 - research the specifics of executing each item
+
+# Fill In Gaps
+
+If there are still areas with task uncertainty you can reach out to senior stakeholders.
+
+Talk to key stakeholders with med to high power and high interest. Use a [Stakeholder Interest Matrix](Tooling/Stakeholder%20Interest%20Matrix.md) to identify them.
+
+Prior to meeting with them
+- gather all pertinent information for them
+- outline clearly the questions you need answers to
+- present research you have performed and the current list of tasks
+
+This will help them see where there are gaps and how they can help.
+
+# Synthesize Details
+
+Each project will vary in the amount of details necessary to include in a task list.
+
+As the project manager it is up to you to decide the appropriate level to provide for each task when putting together the project plan.
+
+Goal should always be for tasks to be concise and clear.
+
+# Order Tasks
+
