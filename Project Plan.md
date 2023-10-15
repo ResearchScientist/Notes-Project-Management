@@ -4,6 +4,7 @@
 - [Fill In Gaps](#Fill%20In%20Gaps)
 - [Synthesize Details](#Synthesize%20Details)
 - [Order Tasks](#Order%20Tasks)
+- [Determine Milestones](#Determine%20Milestones)
 
 - schedule
 	- estimates for project tasks
@@ -63,4 +64,25 @@ As the project manager it is up to you to decide the appropriate level to provid
 Goal should always be for tasks to be concise and clear.
 
 # Order Tasks
+
+- determine their natural order
+- do they have prerequisites
+- do they have dependencies
+
+Ask individual team members what needs to happen before they can begin their work.
+
+Use a spreadsheet to order the tasks.
+
+|Task|Duration Estimate|Notes|
+|--|--|--|
+|task 1|||
+|task 2|||
+
+
+# Determine Milestones
+
+Milestones are 
+- points in the project where you and your team can evaluate the work completed up to that point
+- tasks that certain stakeholders are particularly interested in
+- tasks that signal the completion of a phase
 
