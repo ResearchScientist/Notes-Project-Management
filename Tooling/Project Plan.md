@@ -6,9 +6,9 @@
 - [Order Tasks](#Order%20Tasks)
 - [Determine Milestones](#Determine%20Milestones)
 - [Get Estimates](#Get%20Estimates)
+- [Negotiate Estimates](#Negotiate%20Estimates)
 
 - schedule
-	- estimates for project tasks
 	- milestones
 	- monitor project progress
 
@@ -102,6 +102,15 @@ Obtain estimates from team members on how long it will take to complete tasks.
 	- ask what was different and what was the same
 	- considering those differences does that change the given estimate
 
+Be empathetic.
+
+- Ask for their opinion, do not give it to them. Do not suggest your own estimates. Instead ask them how long a similar task took them on a previous project.
+- Repeat what they said in your own words. This allows them to confirm that they communicated what they intended and allows them to gain a bit of insight into your perspective.
+- Connect with their experience. Let them know you understand making estimates is difficult. Share how you also struggle with estimates and have even missed the mark. And it's ok, we just want to get the best estimate possible.
+- When asking for estimates be mindful of your preconceptions and judgements.
+- Recognize buffers. Ask if they included buffers for things such as holidays, sickness, emergencies. This helps them recognize that you understand their position and can help get a better estimate.
+
+
 ## Three Point Estimates
 
 Method for estimating task duration.
@@ -167,4 +176,36 @@ Include notes on any issues or concerns you found in arriving at the estimate.
 |--|--|--|--|
 |task 1|2 days|High||
 |task 2|3 days|Low||
+
+# Negotiate Estimates
+
+When negotiating with a task expert the goal is
+
+- to obtain an accurate time and effort estimate for a task
+- not to persuade them to agree to a particular estimate
+
+Expect good intentions.
+
+- over estimating may be due to expert being cautious
+- under estimating may be due to expert wanting to meet your expectations
+
+You want to negotiate to arrive at realistic and objective estimates.
+
+Techniques
+
+- say no without saying no
+	- do not use negative language such as that wont work, we can't do that
+	- instead use positive language such as how can we proceed, what can I do to help
+	- this helps get the other person to work on alternate solutions with you
+- focus on interests not on positions
+	- identify their needs & motivations for completing the task
+	- gauge and ask what areas they are able to compromise on and to what degree
+- present mutually beneficial options
+	- discover information they are missing or resources they require to arrive at a shorter estimate
+	- provide these items
+- insist on objective criteria
+	- research, prior project docs
+	- agree beforehand on which resources will be used as objective criteria
+	- consult those resources to determine the estimates
+	- if expert wants to follow their instincts ask them beforehand to provide clear and supportive data to validate their estimates
 
