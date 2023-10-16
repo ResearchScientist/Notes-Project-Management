@@ -5,6 +5,7 @@
 - [Synthesize Details](#Synthesize%20Details)
 - [Order Tasks](#Order%20Tasks)
 - [Determine Milestones](#Determine%20Milestones)
+- [Get Estimates](#Get%20Estimates)
 
 - schedule
 	- estimates for project tasks
@@ -78,11 +79,92 @@ Use a spreadsheet to order the tasks.
 |task 1|||
 |task 2|||
 
-
 # Determine Milestones
 
 Milestones are 
 - points in the project where you and your team can evaluate the work completed up to that point
 - tasks that certain stakeholders are particularly interested in
 - tasks that signal the completion of a phase
+
+# Get Estimates
+
+Obtain estimates from team members on how long it will take to complete tasks.
+
+- confirm team member understands the task being asked about
+- get estimates for all sub steps of the task
+- sum sub steps estimates to get estimate of task
+- discuss assumptions made for a given estimate
+	- what equipment do they assume they will have
+	- what supplies do they assume they will have
+	- how many people and what are their skills and experience
+	- ask team member to consider how likely it is that the assumptions wont be met and how that will affect the estimate given
+- compare estimates given against actual time spent on similar tasks from prior projects
+	- ask what was different and what was the same
+	- considering those differences does that change the given estimate
+
+## Three Point Estimates
+
+Method for estimating task duration.
+
+Considers best case and worst case scenarios as well as risk to calculate the estimate.
+
+Each task receives three time estimates.
+
+- optimistic : no issues , ideal circumstances
+- most likely : few issues , normal circumstances
+- pessimistic : many issues , catastrophic circumstances
+
+Also describe the conditions for each estimate.
+
+- optimistic : conditions
+- most likely : conditions
+- pessimistic : conditions
+
+**Example**
+
+Task : Equip each CSR with a tablet.
+
+|Scenario|Estimate|Conditions|
+|--|--|--|
+|optimistic|2 hours|staff is fully trained , software works as intended|
+|most likely|4 hours  + 1 day delay|not all staff is present so need to schedule more time for training , software underperforms in some areas but mostly adequate|
+|pessimistic|4 hours + 1 week delay|staff turnover prior to training , wrong software delivered|
+
+## Final Estimate
+
+Do not schedule solely based on the pessimistic scenario. This will lead to excess time that could have been used for other tasks or for an earlier launch.
+
+Instead compare optimistic and pessimistic against most likely and include a buffer that covers likely risks while maintaining project progression.
+
+Use a formula such as [Triangular](#Triangular) or [Pert](#Pert).
+## Triangular
+
+Use when unsure of the probability for each scenario.
+
+`(Optimistic + Most Likely + Pessimistic) / 3`
+## Pert
+
+Use when the most likely scenario is believed to be most probable.
+
+`(Optimistic + (4 x Most Likely) + Pessimistic) / 6`
+
+## Confidence Rating
+
+Indicates confidence in an estimate's accuracy.
+The communicates your certainty for a given estimate.
+
+Reported as high, medium, low.
+
+Some methods for calculating confidence ratings
+
+- use a three point technique
+- poll the team on how confident they are on the estimate they each gave , have them report this as a % , then convert % to high, medium, low
+- poll the team on how often they have done this type of task before, never, sometimes, many, then convert to high, medium, low
+
+Include notes on any issues or concerns you found in arriving at the estimate.
+
+|Task|Duration|Confidence|Notes|
+|--|--|--|--|
+|task 1|2 days|High||
+|task 2|3 days|Low||
 
