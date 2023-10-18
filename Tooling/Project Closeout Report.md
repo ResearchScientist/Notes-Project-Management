@@ -60,7 +60,7 @@ Objectives Met
 ## Project Archive
 
 - link to project proposal
-- link to project plan
+- link to [Project Plan](Project%20Plan.md)
 - link to project dashboards
 - link to project meeting notes
 

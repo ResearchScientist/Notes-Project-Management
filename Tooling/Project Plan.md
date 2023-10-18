@@ -1,4 +1,6 @@
 
+A document outlining the project tasks and their estimated durations.
+
 - [Identify Tasks](#Identify%20Tasks)
 - [Acquire Domain Knowledge](#Acquire%20Domain%20Knowledge)
 - [Fill In Gaps](#Fill%20In%20Gaps)
@@ -7,10 +9,6 @@
 - [Determine Milestones](#Determine%20Milestones)
 - [Get Estimates](#Get%20Estimates)
 - [Negotiate Estimates](#Negotiate%20Estimates)
-
-- schedule
-	- milestones
-	- monitor project progress
 
 # Identify Tasks
 
@@ -109,7 +107,6 @@ Be empathetic.
 - Connect with their experience. Let them know you understand making estimates is difficult. Share how you also struggle with estimates and have even missed the mark. And it's ok, we just want to get the best estimate possible.
 - When asking for estimates be mindful of your preconceptions and judgements.
 - Recognize buffers. Ask if they included buffers for things such as holidays, sickness, emergencies. This helps them recognize that you understand their position and can help get a better estimate.
-
 
 ## Three Point Estimates
 

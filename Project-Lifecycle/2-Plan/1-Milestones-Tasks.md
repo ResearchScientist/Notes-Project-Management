@@ -1,3 +1,5 @@
+Determine what tasks will be needed to conduct the work required to complete the project by using a [Project Plan](../../Tooling/Project%20Plan.md).
+
 # Milestones
 
 A project consists of various milestones. These milestones indicate the progress towards completion of the project.
@@ -15,3 +17,4 @@ Determine the order of tasks with a [Work Breakdown Structure](Work%20Breakdown%
 ## Task Assignment
 
 Assign tasks based on team member roles. Consider their expertise and current workload.
+

@@ -281,4 +281,3 @@ A solution design sprint is a sprint dedicated to working on drafting the design
 # DevOps
 
 Develop faster and reliable at large scale.
-

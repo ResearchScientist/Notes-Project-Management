@@ -67,7 +67,7 @@ This sets realistic expectations and offers an opportunity for you to make appro
 
 **High Level**
 
-- add agenda item to project plan meeting 
+- add agenda item to [Project Plan](../../Tooling/Project%20Plan.md) meeting 
 - agenda item is to present the high level risks and their mitigation plans
-- get feedback on risk management plan
+- get feedback on [Risk Management Plan](../../Tooling/Risk%20Management%20Plan.md)
 - ask for insights from stakeholders on how to handle these high level risks

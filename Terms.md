@@ -36,9 +36,10 @@
 |Project Charter|Document that outlines the project goals, scope, and requirements.|
 |Project Manager|Guides team and provides the support they need.|
 |Project Plan|Documents the scope, milestones, activities, and budget for the project.|
-|Quality|Meet the requirements of the project and meet the needs of the users.|
+|Quality|Meet the requirements of the project and meet the needs of the users. How close you are to delivering on that promise.|
 |Quality Assurance|Project evaluation to determine if on track to deliver high quality.|
 |Quality Control|Monitors project deliverables to determine if they meet quality standards.|
+|Quality Management Plan|Documents the process for identifying which quality standards are relevant to the project, how to monitor them, and how to satisfy them.|
 |RACI Matrix|Defines team member roles and responsabilities.|
 |Retrospective|Forum for discussing setbacks, successes, and improvements.|
 |Risk|A potential event that can impact the project.|
