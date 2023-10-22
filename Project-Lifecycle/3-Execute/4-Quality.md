@@ -68,6 +68,32 @@ Results will inform
 - if the project is causing any unintended problems while being implemented
 
 Your role is to implement solutions around these findings in order to move the project forward.
+
+**Evaluation Process**
+
+- determine the reasons for evaluation
+	- ie quantify quality of product or process
+	- ie improve a training process
+- keep in mind how aspect you're evaluating connects to project goals
+- evaluation questions focus on either
+	- improvements
+		- what's working and not working
+		- what are the most common participant reactions
+	- measurements and comparisons
+		- results and outcomes , intended or unintended
+		- lessons learnt
+- make sure questions
+	- address stakeholder or user values, interests, and concerns
+	- are relevant to the project's purpose
+	- are practical and feasible given the allotted project resources
+
+**Evaluation Indicators**
+
+The specific data types required to answer the evaluation questions. Think of these as the markers that indicate the direction that tasks are heading towards as they relate to the evaluation questions. Evaluation indicators are the metrics that indicate if you are meeting a goal.
+
+EQ : to what extent does the software improve user performance
+- EI : faster completion rate
+- EI : increased number of completed tasks
 ### Report
 
 Report to stakeholders.
