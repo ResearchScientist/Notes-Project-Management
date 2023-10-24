@@ -49,6 +49,10 @@ Can also use different headings such as risk vs effort to validate.
 
 Prioritize high risk + low effort assumptions.
 
+# Mitigate Assumptions
+
+Facilitate an activity for discovering and defining a mitigation plan for each high likeliness / high impact assumption as well as  each high risk / low effort assumption.
+
 # Document Assumptions
 
 Once the assumptions have been identified and prioritized log them into a document.
@@ -64,3 +68,34 @@ Regularly review the log with relevant stakeholders to ensure accuracy and align
 Follow up on  high risk  / high likeliness assumptions to confirm that the assumption did not occur or if it did that the mitigation plan was enacted and was effective.
 
 Document the outcome and close the assumption.
+
+# Assumption Categories
+
+A few examples of categories for assumptions.
+
+- costs
+- engagement
+- environmental
+- expertise
+- infrastructure
+- market
+- productivity
+- quality
+- resources
+- schedule
+- scope
+- skill level
+- stakeholders
+
+# Common Assumptions
+
+A few examples of the most common assumptions.
+
+- project team members have the expertise to perform their roles
+- stakeholders understand the goals and objectives
+- project will be delivered on schedule
+- project scope will not significantly change
+- required resources will be accessible, functional, and adequate
+- project team members will collaborate and communicate effectively
+- all risks have been identified and addressed
+
