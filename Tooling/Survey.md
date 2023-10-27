@@ -35,4 +35,3 @@ Survey questions gather the data that answer the evaluation questions.
 
 - What did you like about the tablet?
 - What did you not like about the tablet?
-

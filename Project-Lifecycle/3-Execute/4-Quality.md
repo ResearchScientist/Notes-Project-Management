@@ -1,11 +1,37 @@
-
-- continuous improvement
-- DMAIC
-- PDCA
-
 # Quality Management
 
-## Quality Standards.
+A few examples of project management processes that can be used within a quality management plan for ensuring and managing quality.
+
+**Continuous Improvement**
+
+- identify
+- plan
+- execute
+- review
+
+**DMAC**
+
+- define
+- measure
+- analyze
+- improve
+- control
+
+**PDCA**
+
+- plan
+- do
+- check
+- act
+
+The quality management plan itself consists of 
+
+- [Quality Standards](#Quality%20Standards)
+- [Quality Process](#Quality%20Process)
+- [Quality Assurance](#Quality%20Assurance)
+- [Quality Control](#Quality%20Control)
+
+# Quality Standards
 
 These are the requirements, specifications or guidelines that ensure the product or service will meet the project's goals. These may include reliability, usability, and product standards.
 
@@ -23,7 +49,7 @@ A small representation of quality standard categories
 - usability
 
 When identifying quality standards make sure to define them with measurable and objective goals. Use quantitative and/or relative comparisons when defining them.
-## Quality Process
+# Quality Process
 
 Determine the process for identifying which quality standards are relevant to the project. 
 
@@ -37,11 +63,11 @@ Ask questions such as
 Consult with stakeholders and domain experts.
 
 You can also conduct industry research to find other quality standards relevant to the project.
-## Quality Assurance
+# Quality Assurance
 
 Is a review process that occurs throughout the project lifecycle. 
 
-### Schedule
+## Schedule
 
 Schedule regular audits to confirm that
 
@@ -50,7 +76,7 @@ Schedule regular audits to confirm that
 
 Schedule regular check ins.
 
-### Evaluate
+## Evaluate
 
 Evaluate quality standards in order to learn and inform decisions by
 
@@ -94,18 +120,60 @@ The specific data types required to answer the evaluation questions. Think of th
 EQ : to what extent does the software improve user performance
 - EI : faster completion rate
 - EI : increased number of completed tasks
-### Report
 
-Report to stakeholders.
-## Quality Control
+## Evaluation Findings
+
+Gather the raw data recovered from the evaluation.
+
+- filter and analyze data
+- look for patterns and anomalies
+- have different people look for patterns and anomalies
+
+Once you determine what the data is informing relate that information to the evaluation questions and the project goals.
+## Report
+
+Report evaluation findings to pertinent stakeholders via
+
+- summary sheet
+	- 1 or 2 pages 
+	- snapshot view
+	- only most relevant information to target audience
+- slide deck
+	- visual representation of findings
+
+## Presentation
+
+Do not present just the raw data. 
+
+Instead
+- explain what the data means
+- how it informs a response to the evaluation questions
+- shape the story of the evaluation findings into one cohesive narrative 
+
+Make sure to cover the
+- points you want to make
+- questions you want to answer
+- concerns you want to address
+
+The goal of the presentation is to demonstrate to stakeholders if the project is successfully meeting quality standards.
+
+
+Begin presentation with the overall purpose and goal of the project.
+Present milestone that's being evaluated and how it's expected to meet the project goals.
+Explain what the relevant data revealed.
+Inform on major issues the data surfaced.
+Summarize the rest of the data.
+
+
+# Quality Control
 
 Ensures quality standards when an issue arises or if the quality plan is not executed appropriately by employing corrective actions.
 
 # Documentation
 
-Use a [Quality Management Plan](../../Tooling/Quality%20Management%20Plan.md) to document the project's
+Use a [Quality Management Plan](../../Tooling/Quality%20Management%20Plan.md) to document and outline the project's procedures you determined for
 
-- [Quality Standards.](#Quality%20Standards.)
+- [Quality Standards](#Quality%20Standards)
 - [Quality Process](#Quality%20Process)
 - [Quality Assurance](#Quality%20Assurance)
 - [Quality Control](#Quality%20Control)
