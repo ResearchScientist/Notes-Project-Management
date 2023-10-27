@@ -98,4 +98,3 @@ A few examples of the most common assumptions.
 - required resources will be accessible, functional, and adequate
 - project team members will collaborate and communicate effectively
 - all risks have been identified and addressed
-
