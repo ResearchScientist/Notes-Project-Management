@@ -157,13 +157,11 @@ Make sure to cover the
 
 The goal of the presentation is to demonstrate to stakeholders if the project is successfully meeting quality standards.
 
-
 Begin presentation with the overall purpose and goal of the project.
 Present milestone that's being evaluated and how it's expected to meet the project goals.
 Explain what the relevant data revealed.
 Inform on major issues the data surfaced.
 Summarize the rest of the data.
-
 
 # Quality Control
 
