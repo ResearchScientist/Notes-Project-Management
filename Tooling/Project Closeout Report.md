@@ -1,4 +1,3 @@
-
 Report prepared by the project manager for the benefit of other project managers.
 
 It documents

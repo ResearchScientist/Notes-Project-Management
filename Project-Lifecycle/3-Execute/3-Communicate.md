@@ -60,3 +60,16 @@ This summary should be only 1 to 2 sentences.
 - possible effect on project if issue not resolved
 
 Now the stakeholder can agree with your solution or recommend a different solution.
+
+**Email**
+
+- consider the stakeholder's particular communication style
+- consider what is most important to the stakeholder
+- what information do they need in order to make decisions
+- spell out how the issue will impact the organization's global goals
+- include in subject line the stakeholder's potential call to action
+	- for review : issue topic
+	- urgent : issue topic
+- be brief
+- use bullet points and highlighting to make scanning easier
+- include links to reference material
