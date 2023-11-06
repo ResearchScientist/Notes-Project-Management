@@ -68,3 +68,66 @@ Objectives Met
 List team members and their roles.
 
 Thank and acknowledge everyone involved.
+
+---
+
+# Alternate Format
+
+# Project Summary
+
+## Objective
+
+Short summary of project and the desired results.
+
+## Methodology
+
+Approach and process used.
+
+- waterfall
+- lean
+
+## Performance
+
+Comparison between objectives and results.
+
+| |Planned Objective|Result Delivered|Notes|
+|--|--|--|--|
+|Project Schedule||||
+|Cost||||
+|Scope||||
+
+- red : off objective
+- yellow : close to objective
+- green : on or exceeded objective
+
+## Key Accomplishments
+
+- what was achieved
+- were problems solved and eliminated
+- does the deliverable meet or beat the requirements
+- what do stakeholders say about the results , ask them if things are better
+- was the project worth it
+- include success metrics
+
+## Lessons Learnt
+
+What went well and what didn't go well.
+
+- were there unforeseen benefits
+- were there unforeseen consequences
+- what processes did not work well and why
+- what were the effects of key problem areas such as scope creep or schedule slip and why
+
+## Next Steps
+
+- are there any open action items for post project close
+- are there any risks that can become issues if not addressed in the next quarter
+- who will own the project going forward, recommendations
+
+## Project Documentation Archive
+
+Links to
+
+- project charter
+- plans such as project, quality management, risk, communication
+- project meetings notes

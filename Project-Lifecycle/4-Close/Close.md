@@ -33,17 +33,6 @@ For project closures
 - conduct retrospective
 - thank and disband
 
-# Impact Report Presentation
+Deliver a [Project Closeout Report](Project%20Closeout%20Report.md) for prosperity and as a reference for future project managers.
 
-Presentation given to all stakeholders. Inform on the project details and how the project adds value to the organization.
-
-Report on
-
-- time
-- scope,
-- budget
-- launch date
-- user feedback
-- how desired outcomes were achieved
-
-Deliver a [Project Closeout Report](Project%20Closeout%20Report.md)
+Deliver an [Impact Report Deck](../../Tooling/Impact%20Report%20Deck.md) for informing on how the project adds value to the organization, very useful for those not familiar with the project or its details.
