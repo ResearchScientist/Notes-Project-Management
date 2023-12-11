@@ -1,4 +1,3 @@
-
 Budget is broken down by milestones.
 
 ## Resource Cost Rates

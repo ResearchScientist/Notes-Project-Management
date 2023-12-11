@@ -1,4 +1,3 @@
-
 A schedule is an outline of the time allotted for all tasks and the roles responsible for them.
 
 Include
