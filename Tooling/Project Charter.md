@@ -31,7 +31,11 @@ Explain why the project is being done.
 
 - cost
 - time
-- resources
+
+## Resources
+
+- tools
+- software
 
 ## Budget
 
